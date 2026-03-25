@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 
 
 - I am Amish Aryan ,cs major student from Roorkee , India
 - I am competitive programmer at most of my time
