@@ -9,10 +9,10 @@ Interested in building scalable systems, efficient APIs, and robust backend arch
 ## Skills  
 
 **Languages**  
-C • C++ • Go • JavaScript  
+C • C++ • Go • React  
 
 **Backend & Systems**  
-REST APIs • System Design (learning) • Concurrency (Go)  
+REST APIs • Backend Architecture (learning) • Concurrency (Go)  
 
 **Databases**  
 MySQL • MongoDB  
