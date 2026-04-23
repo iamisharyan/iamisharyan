@@ -1,7 +1,7 @@
 
 
 
-## Profile  
+## About me
 Backend-focused engineering student with strong problem-solving skills from competitive programming.  
 Interested in building scalable systems, efficient APIs, and robust backend architectures.  
 
