@@ -32,7 +32,7 @@ Gin • Cobra • Git • Linux
 
 
 ## Contact  
-Open to internships.
+mail at amisharyan248@gmail.com
 
 
 
